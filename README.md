@@ -1,5 +1,5 @@
 # Linux 我來教: CentOS / RHEL 8 新世代雲端
-Notes：Linux 我來教: CentOS / RHEL 8 新世代雲端
+Notes：課程筆記
 
 ---
 
