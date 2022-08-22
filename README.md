@@ -1,11 +1,11 @@
-# Hahow_HankTom_Linux
-Notes：Linux 我來教: CentOS/ RHEL 8 新世代雲端
+# Notes-Hahow-HankTom-Linux-RedHat
+Notes：Linux 我來教: CentOS / RHEL 8 新世代雲端
 
 ---
 
 ## 課程概要
 
-###### 課程名稱：「[Linux 我來教: CentOS/ RHEL 8 新世代雲端](https://hahow.in/courses/5e6dd4fe024d690024e3be3e/main?item=5e6f2c72024d690024e42770)」
+###### 課程名稱：「[Linux 我來教: CentOS / RHEL 8 新世代雲端](https://hahow.in/courses/5e6dd4fe024d690024e3be3e/main?item=5e6f2c72024d690024e42770)」
 
 ###### 授課講師：湯秉翰
 
@@ -43,6 +43,8 @@ Notes：Linux 我來教: CentOS/ RHEL 8 新世代雲端
 
 此外，大部分的「Linux 發行版」都已採用新的「systemd」來來替代傳統的「init」。
 
+---
+
 ### 單元 2 - 指令操作、變身為超級使用者
 
 #### 常見的符號
@@ -79,6 +81,8 @@ Notes：Linux 我來教: CentOS/ RHEL 8 新世代雲端
 ![](pics/c2-2_echo_path_su_sub.png)
 
 另外，清除畫面除了輸入指令「clear」之外，亦可以使用一個「特殊字元」，輸入該特殊字元的方式是輸入「Ctrl + L」。
+
+---
 
 ### 單元 3 - 基礎資料夾切換、列表、別名
 
@@ -126,5 +130,7 @@ Notes：Linux 我來教: CentOS/ RHEL 8 新世代雲端
 ![](pics/c2-3_alias.png)
 
 其中的「ll」就等同於「ls -l」，當然，除了預設的「別名」指令，亦可以自定義。
+
+---
 
 ### 單元 4 - Linux主要目錄與辨讀權限
