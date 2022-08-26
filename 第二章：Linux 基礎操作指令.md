@@ -286,5 +286,12 @@ shutdown -h 10 'Test.'
 
 ---
 
+## 單元 7 - 學怎麼用 Linux，而不是背指令
+
+略。
+
+---
+
 ###### tags: `Linux` `RHEL 8` `CentOS 8`
 
+ 
